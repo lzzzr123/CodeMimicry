@@ -5,4 +5,4 @@
 # usage
 modify the API in the file src/azure.py
 
-setting the target model in the sre/pipline.py to run CodeMimicry where $N=1$, and run the src/main.py where CodeMimicry $N=5$
+setting the target model in the sre/pipline.py to run CodeMimicry
