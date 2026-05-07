@@ -1,5 +1,5 @@
 # CodeMimicry Exploiting Safety Generalization Lag in Large Language Models via Structured Code Completion
-<img width="915" height="523" alt="流程图" src="https://github.com/user-attachments/assets/8fb3df9b-1c2a-4239-83c6-8e4e6cc797a2" />
+<img width="915" height="523" alt="main" src="https://github.com/user-attachments/assets/8fb3df9b-1c2a-4239-83c6-8e4e6cc797a2" />
 
 
 # Attack results on AdvBench and HarmBench
