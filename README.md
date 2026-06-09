@@ -12,4 +12,4 @@
 # usage
 modify the API in the file src/azure.py
 
-setting the target model in the sre/pipline.py to run CodeMimicry
+setting the target model in the src/pipline.py to run CodeMimicry
