@@ -24,8 +24,8 @@ def main(mode,attackermodel,language,target_model,dataname):
     init_excel(filename,headers)
     #init_excel(failfile,headers)
     
-    point=58
-    querry=128
+    point=0
+    querry=0
     index=point
     
     print("target model:",target_model)
