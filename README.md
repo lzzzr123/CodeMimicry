@@ -17,7 +17,7 @@ Hangzhou 310018, China
 
 ## Update 
 
-**2026.10.6.** We will further optimize our code framework coming soon to enable more in-depth research, such as multi-turn code-style jailbreak attacks.
+**2026.10.6.** The further optimized CodeMimicry framework is coming soon to enable more in-depth research, such as multi-turn code-style jailbreak attacks.
 
 **2026.9.24.** Our paper have been accepted for NeurIPS 2026 🎉🎉🎉
 ##
