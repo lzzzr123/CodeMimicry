@@ -34,8 +34,8 @@ headers=['index','goal','prompt','response','pair','querry','success_num','reaso
 init_excel(filename,headers)
 init_excel(failfile,headers)
 
-point=6
-querry=11
+point=0
+querry=0
 index=point
 
 print("target model:",target_model)
